@@ -131,7 +131,8 @@ The system consists of five core stages:
 ---
 
 ## 6. Flow Diagram
-<br/>
+
+
 ![Model Flow](./images/model_flow.png)
 
 
@@ -139,7 +140,8 @@ The system consists of five core stages:
 ---
 
 ## 7. Demo Video
-<br/>
+
+
 ![Text Summarize](./images/Text-summarize.gif)
 
 
