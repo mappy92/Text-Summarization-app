@@ -131,37 +131,17 @@ The system consists of five core stages:
 ---
 
 ## 6. Flow Diagram
+<br/>
+![Model Flow](./images/model_flow.png)
 
-<pre>
-
-Remote Dataset (ZIP)
-↓
-Data Ingestion
-↓
-Data Validation
-↓
-Data Transformation (Tokenization)
-↓
-Model Training (PEGASUS)
-↓
-Model Evaluation (ROUGE)
-↓
-Saved Model & Metrics
-  
-</pre>
 
 
 ---
 
 ## 7. Demo Video
+<br/>
+![Text Summarize](./images/Text-summarize.gif)
 
-Demo includes:
-- Dataset download & extraction
-- Training execution
-- Summary generation
-- ROUGE score output
-
-(Add GIF or video link here)
 
 ---
 
